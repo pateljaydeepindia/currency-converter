@@ -44,7 +44,7 @@ JSON body
 
 
 #### Get All Currencies list
-currency_name<>currency_code mapping
+"CURRENCY NAME" <> "CURRENCY_CODE" mapping
 
 ```bash
   GET /currencies
