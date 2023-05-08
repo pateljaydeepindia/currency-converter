@@ -33,7 +33,7 @@ Install project with pip
 ```bash
   POST /convert
 ```
-```json
+```bash
 JSON body
 {
     "amount":"float",
