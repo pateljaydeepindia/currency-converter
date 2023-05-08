@@ -44,14 +44,14 @@ JSON body
 
 
 #### Get All Currencies list
-"CURRENCY NAME" <> "CURRENCY_CODE" mapping
+To get all Currencies list having "CURRENCY NAME" <> "CURRENCY_CODE" mapping
 
 ```bash
   GET /currencies
 ```
 
 #### Get All conversions logs / list
-History of all conversions by /convert endpoint
+To get History / Log of all conversions done so far using /convert endpoint.
 
 ```bash
   GET /history
