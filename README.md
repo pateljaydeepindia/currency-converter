@@ -30,7 +30,7 @@ Install project with pip
 
 #### To covert currency
 
-```http
+```bash
   POST /convert
 ```
 ```json
@@ -46,14 +46,14 @@ JSON body
 #### Get All Currencies list
 currency_name<>currency_code mapping
 
-```http
+```bash
   GET /currencies
 ```
 
 #### Get All conversions logs / list
 History of all conversions by /convert endpoint
 
-```http
+```bash
   GET /history
 ```
 
