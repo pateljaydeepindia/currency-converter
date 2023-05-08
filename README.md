@@ -60,7 +60,7 @@ History of all conversions by /convert endpoint
 
 ## Deployment
 
-To deploy this project run
+To deploy this project run:
 
 Local machine:
 ```bash
